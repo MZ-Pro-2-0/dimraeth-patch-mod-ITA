@@ -1,5 +1,5 @@
 version=0.4.38
 build=25350646
 notes=Patch Mod 0.4.38 con Sandbox 0.3.21: pagina TROLL, teletrasporto vicino all'host e giro controllato tra amici e mappe con ritorno automatico.
-url=https://github.com/aminemzami90-cyber/dimraeth-patch-mod-ITA/releases/download/v0.4.38/Dimraeth_Patch_Mod_0.4.38.zip
-sha256=52B7D82D390B4F039DDB2E13B2DE419AA9D31BB78661BE55CAC98D9D547EF467
+url=https://github.com/MZ-Pro-2-0/dimraeth-patch-mod-ITA/releases/download/v0.4.38/Dimraeth_Patch_Mod_0.4.38.zip
+sha256=0C0B80A7F688AC2014E93BEAE0E68E969665FB41786047C384583F8482F883A3
