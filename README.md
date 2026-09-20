@@ -18,7 +18,7 @@ Scarica sempre l'ultima versione dalla sezione [Releases](../../releases/latest)
 
 ## Versione corrente
 
-**Patch Mod 0.4.37 — Sandbox 0.3.20**
+**Patch Mod 0.4.38 — Sandbox 0.3.21**
 
 Principali miglioramenti:
 
@@ -28,3 +28,7 @@ Principali miglioramenti:
 - selezione stabile dei giocatori tramite ID di rete;
 - ripristino sicuro degli effetti temporanei;
 - disinstallazione compatibile con le precedenti DLL Sandbox ufficiali.
+- nuova pagina TROLL senza inversione dei comandi;
+- teletrasporto dell'amico selezionato vicino all'host;
+- giro controllato di 6 tappe tra amici e mappe occupate, con STOP e ritorno
+  automatico alla posizione iniziale.
