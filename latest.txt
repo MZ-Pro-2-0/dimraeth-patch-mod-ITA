@@ -1,5 +1,5 @@
-version=0.4.29
+version=0.4.37
 build=25350646
-notes=Aggiornamenti online gratuiti e correzione delle risposte informative rimaste in inglese, senza modificare GUID o navigazione dei dialoghi.
-url=https://github.com/aminemzami90-cyber/dimraeth-patch-mod-ITA/releases/download/v0.4.29/Dimraeth_Patch_Mod_0.4.29.zip
-sha256=406C654F8388520E4D281A37CB941887FEB84601CBB77EC2A103916AE4A460D9
+notes=Patch Mod 0.4.37 con Sandbox 0.3.20: nuova interfaccia, controlli dinamici, prestazioni del gruppo migliorate e disinstallazione delle versioni precedenti.
+url=https://github.com/aminemzami90-cyber/dimraeth-patch-mod-ITA/releases/download/v0.4.37/Dimraeth_Patch_Mod_0.4.37.zip
+sha256=5F69DAB04BFBDF8D7C2684B4849AA4149CF3D31F407737AE4E89E831FABEE421
