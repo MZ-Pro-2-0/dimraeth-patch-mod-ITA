@@ -1,5 +1,5 @@
 version=0.4.29
 build=25350646
-notes=Prima versione collegata agli aggiornamenti online gratuiti tramite GitHub.
+notes=Aggiornamenti online gratuiti e correzione delle risposte informative rimaste in inglese, senza modificare GUID o navigazione dei dialoghi.
 url=https://github.com/aminemzami90-cyber/dimraeth-patch-mod-ITA/releases/download/v0.4.29/Dimraeth_Patch_Mod_0.4.29.zip
-sha256=8CE036779F2D7F78D5BFD6BDD19B45013541540961169F7F0A15EE75578B6722
+sha256=406C654F8388520E4D281A37CB941887FEB84601CBB77EC2A103916AE4A460D9
