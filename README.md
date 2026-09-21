@@ -18,7 +18,7 @@ Scarica sempre l'ultima versione dalla sezione [Releases](../../releases/latest)
 
 ## Versione corrente
 
-**Patch Mod 0.4.38 — Sandbox 0.3.21**
+**Patch Mod 0.4.39 — Sandbox 0.3.21**
 
 Principali miglioramenti:
 
@@ -32,3 +32,6 @@ Principali miglioramenti:
 - teletrasporto dell'amico selezionato vicino all'host;
 - giro controllato di 6 tappe tra amici e mappe occupate, con STOP e ritorno
   automatico alla posizione iniziale.
+- aggiornamento automatico dal pulsante SCARICA / INSTALLA: download GitHub,
+  verifica SHA-256, sostituzione, riavvio ed eliminazione controllata della
+  vecchia versione e dello ZIP temporaneo.

@@ -1,5 +1,5 @@
-version=0.4.38
+version=0.4.39
 build=25350646
-notes=Patch Mod 0.4.38 con Sandbox 0.3.21: pagina TROLL, teletrasporto vicino all'host e giro controllato tra amici e mappe con ritorno automatico.
-url=https://github.com/MZ-Pro-2-0/dimraeth-patch-mod-ITA/releases/download/v0.4.38/Dimraeth_Patch_Mod_0.4.38.zip
-sha256=0C0B80A7F688AC2014E93BEAE0E68E969665FB41786047C384583F8482F883A3
+notes=Patch Mod 0.4.39: aggiornamento automatico verificato da GitHub, riavvio e pulizia della vecchia versione e dello ZIP temporaneo. Include Sandbox 0.3.21.
+url=https://github.com/MZ-Pro-2-0/dimraeth-patch-mod-ITA/releases/download/v0.4.39/Dimraeth_Patch_Mod_0.4.39.zip
+sha256=C9EEF232D06A8891877314C98E1C3D0710079F58299D43F89615036E27635C40
